@@ -1,6 +1,8 @@
 <div style="background-color: rgb(0, 0, 0)"> 
 <br>
+<br>
 <img style="margin: 0 auto; display:block" alt="logo lissandro" src="https://lissandro1.com.br/img/logo-li-white.svg" width="300"  >
+<br>
 <br>
 
 </div>
